@@ -1,0 +1,14 @@
+.card-list {
+
+    display : "flex";
+    background-color: rgb(40, 136, 112);
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 30px;
+    transform: translateZ(0);
+  }
+
+  /* .card-list:hover{
+    transform: scale(1);
+    background-color: rgb(14, 70, 51);
+  } */

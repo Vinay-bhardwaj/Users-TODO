@@ -1,0 +1,5 @@
+.task {
+    background-color: rgb(70, 173, 130);
+    display: grid solid black;
+    grid-gap: 5px;
+}
